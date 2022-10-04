@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <title>Socket.IO sign up</title>
+    <link rel="shortcut icon" href="images/Graphicloads-100-Flat-2-Chat-2.ico">
+    <style>
+    </style>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script>
+      $(function () {
+           $('#btnSignUp').click(function(){
+                  var oUserInfo = {
+                    "userId": $('#txtUser').val()
+                };
+              sessionStorage.setItem('userInfo', JSON.stringify(oUserInfo));
+              window.location.replace("http://localhost:3000/chat");
+            });
+        });
+     </script>
+</head>
+<body>
+    <div id="divSignUp">
+        <label>Name:</label><input type="text" id="txtUser" />
+        <input type="button" id="btnSignUp" value="Sign Up">
+    </div>
+</body>
+</html>

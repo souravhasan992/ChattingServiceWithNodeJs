@@ -1,0 +1,45 @@
+Website Name: adlcode.com
+
+Website Cpanel - 
+------------------------------
+adlcode.com/cpanel
+Username :  adlcode 
+Password :  wLL@rZ!,QXB3
+
+Admin Panel - product add/website design
+----
+adlcode.com/login
+Username: admin
+Password: G#aBSRR&v7Qg0
+
+------------------------------
+Suggest Product List
+-----
+adlcode.com/c
+adlcode.com/d
+adlcode.com/game
+adlcode.com/phone
+
+
+Admin Panel Login >> Post >> Add New
+--
+
+	Seleted offer: Google Play 
+
+Tittle
+	Main Keyword
+	
+Body
+	Content
+	Image
+            -----------
+	Link
+Category
+Tags
+Thumbnail
+Publish
+	
+
+
+
+
